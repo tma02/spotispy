@@ -1,0 +1,16 @@
+{
+  "name": "spotispy",
+  "version": "1.0.0",
+  "description": "Big album art for Spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tianyi Ma <tn.ma@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "randomstring": "^1.1.4"
+  }
+}

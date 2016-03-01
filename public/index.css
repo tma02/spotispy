@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background: rgb(50, 50, 50);
+}
+
+#background {
+  position: absolute;
+  object-fit: cover;
+  left: -20px;
+  top: -20px;
+  width: calc(100vw + 40px);
+  height: calc(100vh + 40px);
+  -webkit-filter: blur(20px) brightness(35%);
+  overflow: hidden;
+}
+
+#cover {
+  position: absolute;
+  left: calc(50vw - 320px);
+  top: calc(50vh - 320px);
+}
+
+* {
+  cursor: none;
+}
