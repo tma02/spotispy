@@ -1,5 +1,5 @@
 # spotispy
-Display currently playing album art from Spotify in your web browser.
+Display currently playing album art from Spotify.
 
 ![screenshot](http://i.imgur.com/qTb56Nl.jpg)
 
