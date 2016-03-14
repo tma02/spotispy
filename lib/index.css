@@ -2,6 +2,14 @@ body {
   text-align: center;
   background: rgb(50, 50, 50);
   overflow: hidden;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  color: #ccc;
+}
+
+#loading {
+  margin-top: calc(50vh - 21px);
+  font-size: 42px;
 }
 
 #background {

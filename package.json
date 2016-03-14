@@ -1,16 +1,18 @@
 {
   "name": "spotispy",
-  "version": "1.0.0",
-  "description": "Big album art for Spotify",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Fullscreen Spotify album art",
+  "main": "lib/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron lib/main.js"
   },
   "author": "Tianyi Ma <tn.ma@outlook.com>",
-  "license": "MIT",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  },
   "dependencies": {
-    "express": "^4.13.4",
-    "jade": "^1.11.0",
-    "randomstring": "^1.1.4"
+    "jquery": "^2.2.1"
   }
 }
