@@ -5,4 +5,4 @@ Display currently playing album art from Spotify in your web browser.
 
 Run ```npm install``` then ```node index.js```. A webserver should now be running on port 5000.
 
-Navigate to ```localhost:5000``` in your web browser.
+Navigate to <http://localhost:5000> in your web browser.
