@@ -3,6 +3,6 @@ Display currently playing album art from Spotify in your web browser.
 
 ![screenshot](http://i.imgur.com/qTb56Nl.jpg)
 
-Run ```npm install``` then ```node index.js```. A webserver should now be running on port 5000.
+Download the release, unzip the file, and run the .app while Spotify is open.
 
-Navigate to <http://localhost:5000> in your web browser.
+Due to limitations in the Spotify API, the max album art size is 600x600.
