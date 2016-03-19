@@ -1,0 +1,6 @@
+{
+  "name": "Spotispy",
+  "tagline": "Displays the album art from your currently playing Spotify track in full-screen.",
+  "body": "# spotispy\r\nDisplay currently playing album art from Spotify.\r\n\r\n![screenshot](http://i.imgur.com/qTb56Nl.jpg)\r\n\r\n[Download the release](https://github.com/tma02/spotispy/releases), unzip the file, and run the .app or .exe __while Spotify is open__.\r\n\r\nDue to limitations in the Spotify API, the max album art size is 600x600.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
