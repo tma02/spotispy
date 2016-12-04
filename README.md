@@ -10,3 +10,5 @@ Due to limitations in the Spotify API, the max album art size is 600x600.
 ### Multiple monitors?
 You can switch between your displays with ```Cmd+Shift+Arrow``` or ```Ctrl+Shift+Arrow``` on Windows.
 
+### Developers
+Clone the repo, install dependencies with ```npm install``` and run with ```npm start```.
