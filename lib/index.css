@@ -29,12 +29,14 @@ body {
   height: calc(100vh + 40px);
   -webkit-filter: blur(20px) brightness(35%);
   overflow: hidden;
+  opacity: 0;
 }
 
 #cover {
   position: absolute;
   left: calc(50vw - 320px);
   top: calc(50vh - 320px);
+  opacity: 0;
 }
 
 * {
@@ -46,6 +48,7 @@ body {
   bottom: 7vh;
   width: 100vw;
   text-align: center;
+  opacity: 0;
 }
 
 #track-info > #title {
