@@ -1,7 +1,7 @@
 # spotispy
 Display currently playing album art from Spotify.
 
-![screenshot](http://i.imgur.com/qTb56Nl.jpg)
+![screenshot](http://i.imgur.com/MfVcPCf.png)
 
 [Download the release](https://github.com/tma02/spotispy/releases), unzip the file, and run the app or exe.
 
